@@ -4,3 +4,9 @@ type option
 colors
 
 dark mode 
+
+
+
+paymetn option 
+lucky draw
+visit islamabad
