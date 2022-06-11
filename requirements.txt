@@ -3,3 +3,4 @@ Emogi
 type option
 colors
 
+dark mode 
